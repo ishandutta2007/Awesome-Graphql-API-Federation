@@ -79,72 +79,72 @@ The table below catalogs premier commercial and hosted GraphQL federation soluti
 
 ## ⭐ Open-Source GitHub Projects
 
-Explore the most prominent open-source repositories powering GraphQL federation, query planning, schema compilation, and microservice subgraphs. **Ranked in descending order by GitHub Stars**:
+Explore the most prominent open-source repositories powering GraphQL federation, query planning, schema compilation, and microservice subgraphs. **Ranked in descending order by GitHub_Stars**:
 
-1. **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** [![GitHub stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)  
+1. **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)  
    *Blazing-fast GraphQL execution engine written in Haskell and C. Connects databases, microservices, and remote GraphQL endpoints into a unified multi-protocol graph; functions natively as an Apollo Federation subgraph or standalone federated supergraph gateway.*
 
-2. **[Tyk API Gateway](https://github.com/TykTechnologies/tyk)** [![GitHub stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers)  
+2. **[Tyk API Gateway](https://github.com/TykTechnologies/tyk)** [![GitHub_Stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers)  
    *Enterprise-grade open-source API gateway written in Go. Provides built-in Universal Data Graph (UDG) engine capable of federating GraphQL and REST endpoints into stitched supergraphs with enterprise rate-limiting, authentication, and caching.*
 
-3. **[gqlgen](https://github.com/99designs/gqlgen)** [![GitHub stars](https://img.shields.io/github/stars/99designs/gqlgen?style=social&color=white)](https://github.com/99designs/gqlgen/stargazers)  
+3. **[gqlgen](https://github.com/99designs/gqlgen)** [![GitHub_Stars](https://img.shields.io/github/stars/99designs/gqlgen?style=social&color=white)](https://github.com/99designs/gqlgen/stargazers)  
    *Go library for building type-safe GraphQL servers. First-class generator support for Apollo Federation v1 and v2 subgraphs with `@key`, `@requires`, and entity resolver boilerplate generation.*
 
-4. **[GraphQL Yoga](https://github.com/graphql-hive/graphql-yoga)** [![GitHub stars](https://img.shields.io/github/stars/graphql-hive/graphql-yoga?style=social&color=white)](https://github.com/graphql-hive/graphql-yoga/stargazers)  
+4. **[GraphQL Yoga](https://github.com/graphql-hive/graphql-yoga)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql-hive/graphql-yoga?style=social&color=white)](https://github.com/graphql-hive/graphql-yoga/stargazers)  
    *Fully-featured, lightweight Node.js/TypeScript GraphQL server built by The Guild. Includes out-of-the-box support for Apollo Federation v2 subgraphs, Envelop plugin pipeline, SSE/WebSocket subscriptions, and edge runtimes.*
 
-5. **[Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry)** [![GitHub stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=social&color=white)](https://github.com/strawberry-graphql/strawberry/stargazers)  
+5. **[Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry)** [![GitHub_Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=social&color=white)](https://github.com/strawberry-graphql/strawberry/stargazers)  
    *Modern Python GraphQL library based on standard dataclasses and type hints. Features native support for Apollo Federation v1 and v2, enabling Python FastAPI, Django, and Flask services to serve as federated subgraphs.*
 
-6. **[Async-graphql](https://github.com/async-graphql/async-graphql)** [![GitHub stars](https://img.shields.io/github/stars/async-graphql/async-graphql?style=social&color=white)](https://github.com/async-graphql/async-graphql/stargazers)  
+6. **[Async-graphql](https://github.com/async-graphql/async-graphql)** [![GitHub_Stars](https://img.shields.io/github/stars/async-graphql/async-graphql?style=social&color=white)](https://github.com/async-graphql/async-graphql/stargazers)  
    *High-performance, purely asynchronous GraphQL server library implemented in Rust. Supports Apollo Federation v2 specifications, dynamic schema building, batch queries, and integration with Actix-web, Axum, and Poem.*
 
-7. **[GraphQL Mesh](https://github.com/ardatan/graphql-mesh)** [![GitHub stars](https://img.shields.io/github/stars/ardatan/graphql-mesh?style=social&color=white)](https://github.com/ardatan/graphql-mesh/stargazers)  
+7. **[GraphQL Mesh](https://github.com/ardatan/graphql-mesh)** [![GitHub_Stars](https://img.shields.io/github/stars/ardatan/graphql-mesh?style=social&color=white)](https://github.com/ardatan/graphql-mesh/stargazers)  
    *The Guild's ubiquitous federation framework that wraps any backend datasource (OpenAPI/Swagger, SOAP, gRPC, SQLite, JSON Schema) into strongly-typed GraphQL subgraphs, composing them into unified executable supergraphs.*
 
-8. **[Netflix DGS Framework](https://github.com/Netflix/dgs-framework)** [![GitHub stars](https://img.shields.io/github/stars/Netflix/dgs-framework?style=social&color=white)](https://github.com/Netflix/dgs-framework/stargazers)  
+8. **[Netflix DGS Framework](https://github.com/Netflix/dgs-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/Netflix/dgs-framework?style=social&color=white)](https://github.com/Netflix/dgs-framework/stargazers)  
    *Netflix's production-grade GraphQL framework for Spring Boot and Java/Kotlin. Provides effortless creation of Apollo Federation subgraphs, code-generation Gradle plugins, dynamic security, and reactive subscriptions.*
 
-9. **[Mercurius](https://github.com/mercurius-js/mercurius)** [![GitHub stars](https://img.shields.io/github/stars/mercurius-js/mercurius?style=social&color=white)](https://github.com/mercurius-js/mercurius/stargazers)  
+9. **[Mercurius](https://github.com/mercurius-js/mercurius)** [![GitHub_Stars](https://img.shields.io/github/stars/mercurius-js/mercurius?style=social&color=white)](https://github.com/mercurius-js/mercurius/stargazers)  
    *Extremely fast GraphQL adapter for the Fastify web framework. Includes built-in gateway federation mode capable of polling or registering subgraphs, executing federated query plans, and handling subscriptions.*
 
-10. **[GraphQL Scalars](https://github.com/graphql-hive/graphql-scalars)** [![GitHub stars](https://img.shields.io/github/stars/graphql-hive/graphql-scalars?style=social&color=white)](https://github.com/graphql-hive/graphql-scalars/stargazers)  
+10. **[GraphQL Scalars](https://github.com/graphql-hive/graphql-scalars)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql-hive/graphql-scalars?style=social&color=white)](https://github.com/graphql-hive/graphql-scalars/stargazers)  
     *Comprehensive library of battle-tested, custom GraphQL scalar types (DateTime, UUID, EmailAddress, JSON). Critical for enforcing shared type safety across federated microservice boundaries.*
 
-11. **[WunderGraph Cosmo](https://github.com/wundergraph/cosmo)** [![GitHub stars](https://img.shields.io/github/stars/wundergraph/cosmo?style=social&color=white)](https://github.com/wundergraph/cosmo/stargazers)  
+11. **[WunderGraph Cosmo](https://github.com/wundergraph/cosmo)** [![GitHub_Stars](https://img.shields.io/github/stars/wundergraph/cosmo?style=social&color=white)](https://github.com/wundergraph/cosmo/stargazers)  
     *Complete Apache 2.0 open-source alternative to Apollo GraphOS. Includes an ultra-low latency Go-based query router, distributed schema registry, breaking change validation engine, and full Apollo Federation v1/v2 compatibility.*
 
-12. **[Grafbase Engine](https://github.com/grafbase/grafbase)** [![GitHub stars](https://img.shields.io/github/stars/grafbase/grafbase?style=social&color=white)](https://github.com/grafbase/grafbase/stargazers)  
+12. **[Grafbase Engine](https://github.com/grafbase/grafbase)** [![GitHub_Stars](https://img.shields.io/github/stars/grafbase/grafbase?style=social&color=white)](https://github.com/grafbase/grafbase/stargazers)  
     *High-performance GraphQL supergraph engine and local CLI gateway written in Rust (acquired by The Guild). Powers instant subgraph federation, OpenAPI-to-GraphQL joins, and sub-millisecond query planning.*
 
-13. **[GraphQL JIT](https://github.com/zalando-incubator/graphql-jit)** [![GitHub stars](https://img.shields.io/github/stars/zalando-incubator/graphql-jit?style=social&color=white)](https://github.com/zalando-incubator/graphql-jit/stargazers)  
+13. **[GraphQL JIT](https://github.com/zalando-incubator/graphql-jit)** [![GitHub_Stars](https://img.shields.io/github/stars/zalando-incubator/graphql-jit?style=social&color=white)](https://github.com/zalando-incubator/graphql-jit/stargazers)  
     *Just-In-Time compiler for GraphQL execution in V8/Node.js, open-sourced by Zalando. Accelerates federated query resolution and schema compilation for high-traffic Node.js gateways.*
 
-14. **[Caliban](https://github.com/ghostdogpr/caliban)** [![GitHub stars](https://img.shields.io/github/stars/ghostdogpr/caliban?style=social&color=white)](https://github.com/ghostdogpr/caliban/stargazers)  
+14. **[Caliban](https://github.com/ghostdogpr/caliban)** [![GitHub_Stars](https://img.shields.io/github/stars/ghostdogpr/caliban?style=social&color=white)](https://github.com/ghostdogpr/caliban/stargazers)  
     *Functional GraphQL library for Scala powered by ZIO and Cats Effect. Provides native Apollo Federation subgraph decorators and compile-time type-safe query generation.*
 
-15. **[Apollo Router](https://github.com/apollographql/router)** [![GitHub stars](https://img.shields.io/github/stars/apollographql/router?style=social&color=white)](https://github.com/apollographql/router/stargazers)  
+15. **[Apollo Router](https://github.com/apollographql/router)** [![GitHub_Stars](https://img.shields.io/github/stars/apollographql/router?style=social&color=white)](https://github.com/apollographql/router/stargazers)  
     *High-performance, configurable GraphQL Federation v2 query router and execution gateway written in Rust. Replaces legacy Node.js gateways with sub-millisecond latency, native Rhai scripting, and OpenTelemetry instrumentation.*
 
-16. **[Envelop](https://github.com/graphql-hive/envelop)** [![GitHub stars](https://img.shields.io/github/stars/graphql-hive/envelop?style=social&color=white)](https://github.com/graphql-hive/envelop/stargazers)  
+16. **[Envelop](https://github.com/graphql-hive/envelop)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql-hive/envelop?style=social&color=white)](https://github.com/graphql-hive/envelop/stargazers)  
     *Pluggable GraphQL execution lifecycle framework by The Guild. Allows developers to compose custom middleware, tracing, auth, and query validation plugins into any federated GraphQL runtime.*
 
-17. **[Apollo Federation Gateway](https://github.com/apollographql/federation)** [![GitHub stars](https://img.shields.io/github/stars/apollographql/federation?style=social&color=white)](https://github.com/apollographql/federation/stargazers)  
+17. **[Apollo Federation Gateway](https://github.com/apollographql/federation)** [![GitHub_Stars](https://img.shields.io/github/stars/apollographql/federation?style=social&color=white)](https://github.com/apollographql/federation/stargazers)  
     *The canonical reference repository and JavaScript specification for Apollo Federation composition, query planning, `@apollo/gateway`, and `@apollo/subgraph`.*
 
-18. **[GraphQL Hive Console](https://github.com/graphql-hive/console)** [![GitHub stars](https://img.shields.io/github/stars/graphql-hive/console?style=social&color=white)](https://github.com/graphql-hive/console/stargazers)  
+18. **[GraphQL Hive Console](https://github.com/graphql-hive/console)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql-hive/console?style=social&color=white)](https://github.com/graphql-hive/console/stargazers)  
     *Open-source schema registry, team collaboration dashboard, and analytics web application for GraphQL Federation and supergraphs, powered by Next.js and ClickHouse.*
 
-19. **[Federation JVM](https://github.com/apollographql/federation-jvm)** [![GitHub stars](https://img.shields.io/github/stars/apollographql/federation-jvm?style=social&color=white)](https://github.com/apollographql/federation-jvm/stargazers)  
+19. **[Federation JVM](https://github.com/apollographql/federation-jvm)** [![GitHub_Stars](https://img.shields.io/github/stars/apollographql/federation-jvm?style=social&color=white)](https://github.com/apollographql/federation-jvm/stargazers)  
     *Apollo's official Java and Kotlin library providing annotations and schema transformation tools to expose `graphql-java` servers as Apollo Federation subgraphs.*
 
-20. **[Hive Router](https://github.com/graphql-hive/router)** [![GitHub stars](https://img.shields.io/github/stars/graphql-hive/router?style=social&color=white)](https://github.com/graphql-hive/router/stargazers)  
+20. **[Hive Router](https://github.com/graphql-hive/router)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql-hive/router?style=social&color=white)](https://github.com/graphql-hive/router/stargazers)  
     *Production-ready, 100% open-source (MIT) Rust GraphQL Federation gateway developed by The Guild. Built for extreme concurrency, low memory footprint, and full Apollo Federation v1/v2 compatibility.*
 
-21. **[Composite Schema Specification](https://github.com/graphql/graphql-federation-spec)** [![GitHub stars](https://img.shields.io/github/stars/graphql/graphql-federation-spec?style=social&color=white)](https://github.com/graphql/graphql-federation-spec/stargazers)  
+21. **[Composite Schema Specification](https://github.com/graphql/graphql-federation-spec)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql/graphql-federation-spec?style=social&color=white)](https://github.com/graphql/graphql-federation-spec/stargazers)  
     *The vendor-neutral initiative under the GraphQL Foundation to standardize distributed GraphQL composition, supergraphs, and cross-vendor federation directives across industry tools.*
 
-22. **[GoRouTer](https://github.com/StevenACoffman/gorouter)** [![GitHub stars](https://img.shields.io/github/stars/StevenACoffman/gorouter?style=social&color=white)](https://github.com/StevenACoffman/gorouter/stargazers)  
+22. **[GoRouTer](https://github.com/StevenACoffman/gorouter)** [![GitHub_Stars](https://img.shields.io/github/stars/StevenACoffman/gorouter?style=social&color=white)](https://github.com/StevenACoffman/gorouter/stargazers)  
     *Apollo Federation v2 query planner and execution library written purely in Go. Implements entity fetch spec resolution, projection trimming, and parallel HTTP subgraph fetching.*
 
 ---
@@ -206,7 +206,7 @@ Contributions are welcome and actively encouraged! To submit a new SaaS platform
 2. 🌿 **Create a new branch**: `git checkout -b add/my-supergraph-tool`.
 3. 📝 **Add your entry** under the appropriate section:
    - For SaaS tools: Include vendor, revenue/valuation, starting tier pricing, and exact free tier/trial limits.
-   - For Open-Source tools: Include the social star badge linking to its `/stargazers` page, description, and primary language.
+   - For Open-Source tools: Include the social Stars_Badge linking to its `/stargazers` page, description, and primary language.
 4. 📬 **Submit a Pull Request** with a concise description of why the tool belongs in this list.
 
 ---
